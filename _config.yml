@@ -12,5 +12,10 @@ color:
     - '#6F2800'
 layout_spectrum: 0.39159695827402174
 name: THE SEO GRID
+navigation:
+  - name: Website Redesign Checklist - 10 Steps to Mitigate Loss of Rankings
+    url: >-
+      http://www.infront.com/blogs/the-infront-blog/2016/8/2/website-redesign-cheklist
+    type: external
 title: SEO
 description: THE BEST OF SEO FROM AROUND THE WEB
