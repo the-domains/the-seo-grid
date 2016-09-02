@@ -1,4 +1,3 @@
-layout_spectrum: 0.39159695827402174
 typography_spectrum: 0.5585021039005369
 color:
   brandStrength: 0.6272306656464934
@@ -6,9 +5,11 @@ color:
   saturation: 0.5839092589449137
   rhythmicContrast: 0.8821239471435547
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#000000'
+    - '#ACACAC'
+    - '#535353'
+    - '#6F2800'
+layout_spectrum: 0.39159695827402174
 name: THE SEO GRID
+title: SEO
